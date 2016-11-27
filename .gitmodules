@@ -1,0 +1,3 @@
+[submodule "wssh"]
+	path = wssh
+	url = https://github.com/thisismyrobot/wssh.git
