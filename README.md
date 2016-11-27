@@ -7,9 +7,9 @@ This codebase was created as a modification of
 
 ```sh
 sudo apt-get install git python-pip libffi-dev libssl-dev
-git clone --recursive https://github.com/thisismyrobot/headset.git
+git clone https://github.com/thisismyrobot/headset.git
 cd headset
-pip install -r wssh/requirements_server.txt
+pip install -r requirements.txt
 ```
 
 ## Start
