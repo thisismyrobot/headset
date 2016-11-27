@@ -15,6 +15,5 @@ pip install -r requirements.txt
 ## Start
 
 ```sh
-cd wssh
-bin/wsshd
+python start.py
 ```
