@@ -5,7 +5,7 @@
 
 ```sh
 sudo apt-get install git python-pip libffi-dev libssl-dev
-git clone https://github.com/thisismyrobot/headset.git .
+git clone --recursive https://github.com/thisismyrobot/headset.git
 cd headset
 pip install -r wssh/requirements_server.txt
 ```
