@@ -1,5 +1,7 @@
 # Headset
 
+This codebase was created as a modification of
+[wssh](https://github.com/aluzzardi/wssh) so uses its MIT licence.
 
 ## Install (Raspi Zero)
 
